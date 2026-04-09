@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "prefix",
     version: "1.5",
-    author: "Ew'r Saim",
+    author: "Ew'r ryu",
     countDown: 5,
     role: 0,
     description: "Change the bot prefix in your chat box or globally (admin only)",
